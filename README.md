@@ -5,7 +5,7 @@ An Amazon-like app storefront with the MySQL, Node.js  will take in orders from 
 
 Customer view
 
-File : [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+File : [![Alt text](https://img.youtube.com/vi/-LSSC66719k/0.jpg)](https://www.youtube.com/watch?v=-LSSC66719k)
 To execute : node bamazonCustomer.js
 
 - Will display list of items available for sale which include the id, name, price of products.
